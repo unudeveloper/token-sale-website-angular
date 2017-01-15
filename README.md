@@ -26,7 +26,7 @@ The code will do the following:
 
 You must have the API project up and running with seed data in order to start developing the client.
 
-[NEM Coinbase Token Sale API](https://github.com/blockstart/nem-coinbase-token-sale-api)
+[NEM Coinbase Token Sale API](https://github.com/unudeveloper/token-sale-website-angular.git)
 
 With the API running, you will need to enter an initial value for funds raised.
 Using an app like [Paw](https://paw.cloud/) make a request:
@@ -61,11 +61,11 @@ Run `ng run dev` for dev.
 
 ## Running unit tests
 
-Run `npm run test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `npm run test` to execute the unit tests .
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Run `ng e2e` to execute the end-to-end tests .
 
 
 ## License
