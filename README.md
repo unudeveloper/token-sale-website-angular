@@ -4,8 +4,6 @@
 
 This repo provides all of the code needed to operate a token sale on the [NEM](https://nem.io) blockchain. 
 
-This code powered the [Cache Token Sale](https://getcache.io).
-
 The code will do the following:
 
  1. Send your NEM Token (Mosaic) to purchasers
